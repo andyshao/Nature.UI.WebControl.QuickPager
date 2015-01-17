@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="Nature.UI.WebControl.QuickPager.PageArgs">
+    <Position X="5.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAACAAAA=</HashCode>
+      <FileName>PageEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.UI.WebControl.QuickPager.QuickPager">
+    <Position X="9.25" Y="2.75" Width="3.5" />
+    <NestedTypes>
+      <Delegate Name="Nature.UI.WebControl.QuickPager.QuickPager.EventPageChange" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Event.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACsCAAABJAxoCDAGhmBFcCwSgDCQACGACBAkkSQgUkA=</HashCode>
+      <FileName>Event.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Nature.UI.WebControl.QuickPager.PagerUI.AjaxForWebControl">
+    <Position X="7.25" Y="13" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAQAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PagerUI\AjaxForWebControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.UI.WebControl.QuickPager.PagerUI.JS">
+    <Position X="4.25" Y="13" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PagerUI\JS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.UI.WebControl.QuickPager.PagerUI.PageUI">
+    <Position X="6.5" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAAGAEYAAAAAAGAAQAAAAAA4AAAAIAAAAAAoAAAAQAA=</HashCode>
+      <FileName>PagerUI\PageUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.UI.WebControl.QuickPager.PagerUI.PostBack">
+    <Position X="0.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PagerUI\PostBack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.UI.WebControl.QuickPager.PagerUI.PostBackURL">
+    <Position X="1.5" Y="13" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PagerUI\PostBackURL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.UI.WebControl.QuickPager.PagerUI.URL">
+    <Position X="3" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAQAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>PagerUI\URL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.UI.WebControl.QuickPager.PagerUI.URLRewriter">
+    <Position X="6" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAQAAAAAAAAAAAIAAAAACA=</HashCode>
+      <FileName>PagerUI\URLRewriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nature.UI.WebControl.QuickPagerSQL.SQLRowNumber" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="Nature.UI.WebControl.QuickPager.PagerTurnKind">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAgQAAAAAIAAAAAAAACAAAAAAgAAAAAAAACA=</HashCode>
+      <FileName>myEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Nature.UI.WebControl.QuickPager.PagerRunKind">
+    <Position X="3" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>myEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Nature.UI.WebControl.QuickPager.DataSourceKind">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAEAAQAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>myEnum.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>
